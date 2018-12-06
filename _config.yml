@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+title: Hacker theme
+description: はてブロに書くほどではない雑なメモを書いていきます。AWS/Rails/Ruby/React/スタートアップ/SaaS/マネジメント/CTO業務あたり.
+show_downloads: false
+theme: jekyll-theme-hacker
