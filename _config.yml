@@ -1,6 +1,6 @@
 title: 'mncの書きなぐりメモ'
 description: 'はてブロに書くほどではない内容を書きなぐっていきます。AWS/Rails/Ruby/React/スタートアップ/マネジメント/キャリアとか'
-theme: minima
+theme: jekyll-theme-slate
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
