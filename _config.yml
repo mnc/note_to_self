@@ -1,8 +1,6 @@
 title: 'mncの書きなぐりメモ'
-description: 'はてブロに書くほどではない内容を書きなぐっていきます。AWS/Rails/Ruby/React/スタートアップ/マネジメント/キャリアとか'
+description: 'はてブロに書くほどではない内容を書きなぐっていきます。AWS、Rails、React、キャリア、経営とか'
 theme: jekyll-theme-slate
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-twitter_username: __mnc90
-github_username: mnc
