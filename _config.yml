@@ -1,11 +1,9 @@
 author: mnc
 title: [mnc](https://twitter.com/__mnc90)の書きなぐりメモ
 description: はてブロに書くほどではない内容を書きなぐっていきます。AWS/Rails/Ruby/React/スタートアップ/SaaS/マネジメント/CTO業務らへん
-show_downloads: false
-theme: jekyll-theme-hacker
-twitter_username: __mnc90
-github_username: mnc
 theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+twitter_username: __mnc90
+github_username: mnc
